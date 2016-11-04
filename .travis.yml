@@ -6,5 +6,5 @@ addons:
 services:
 install:
 script:
-  - "echo true"
+  - "true"
 
